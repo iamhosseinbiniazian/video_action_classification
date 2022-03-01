@@ -1,6 +1,6 @@
 # video_action_classification
 This repository contain code for classification action video
-# Video Action Classification in Tensorflow#
+# Video Action Classification in Tensorflow
 
 
 This ia a two fusion neural network implement in tensorflow(keras framework) for classification video clip in UFC3 and UFC101 dataset. 
